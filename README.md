@@ -33,50 +33,49 @@ I believe in writing **clean, maintainable code** and learning by building.
 
 ## ⚡ Tech Stack
 
-### Frontend
-- React.js · JavaScript (ES6+)
-- HTML5 · CSS3 · Tailwind CSS
-
-### Backend
-- Node.js · Express.js
-- MongoDB
-
-### Programming & Tools
-- C++ (DSA & Competitive Programming)
-- Git · GitHub · Vercel
+<p align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Work
 
-| Project | What it is | Live |
+| Project | Description | Live / Repo |
 |------|-----------|------|
-| **Portfolio Website** | Personal portfolio showcasing skills & projects | [View](https://portfolio-muaaz.vercel.app/) |
-| **Myntra Clone** | React-based e-commerce UI inspired by Myntra | [View](https://myntra-muaaz.vercel.app/) |
-| **Edusity** | Modern education landing page built with React | [View](https://edusity-muaaz.vercel.app/) |
+| **Portfolio Website** | Personal portfolio showcasing skills & projects | [Live](https://portfolio-muaaz.vercel.app/) |
+| **Myntra Clone** | React-based e-commerce UI inspired by Myntra | [Live](https://myntra-muaaz.vercel.app/) |
+| **Edusity** | Modern education landing page built with React | [Live](https://edusity-muaaz.vercel.app/) |
 | **LeetCode Solutions** | C++ solutions for DSA & interview prep | [Repo](https://github.com/MuhammadMuaaz007/leetcode-solutions) |
 
 ---
 
 ## 🧩 Problem Solving & DSA
 
-- Solving **LeetCode problems using C++**
-- Strong focus on:
-  - Arrays & Strings
-  - Trees & Graphs
-  - Dynamic Programming
-  - Binary Search & Greedy
-- Consistent practice for interview readiness
+- Solving **LeetCode problems in C++**  
+- Topics: Arrays, Strings, Trees, Graphs, DP, Binary Search, Greedy  
+- Improving **problem-solving skills & interview readiness**  
 
-🔗 **LeetCode Profile:** https://leetcode.com/u/Muaaz_/
+🔗 **LeetCode Profile:** [Muaaz_](https://leetcode.com/u/Muaaz_/)
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical" height="150"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" height="150"/>
 </p>
 
 ---
@@ -98,5 +97,5 @@ I believe in writing **clean, maintainable code** and learning by building.
 ---
 
 <p align="center">
-  <i>Focused on growth, consistency, and building impactful software.</i>
+  <i>Focused on growth, consistency, and building impactful software. 🚀</i>
 </p>
