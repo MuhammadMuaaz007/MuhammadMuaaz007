@@ -64,45 +64,84 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 
 ---
 
-# 🚀 Featured Engineering Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
----
+<div align="center">
 
-### 🛒 Muaaz Mart | Full-Stack E-Commerce
-**Tech Stack:** `MERN Stack` • `Redux` • `Stripe` • `JWT`
+<!-- Project 1 -->
+<div style="border:1px solid #30363d; border-radius:12px; padding:16px; margin:10px; width:80%;">
 
-*   **Impact:** Engineered a comprehensive B2C system with secure authentication, persistent cart logic, and integrated payment gateways.
-*   **Engineering:** Focused on scalable RESTful API design and global state management for a seamless user journey.
-*   [**🔗 Live Demo**](https://e-shop-frontend1.vercel.app/) | [**📂 Source Code**](https://github.com/MuhammadMuaaz007)
+<h3>🛒 Muaaz Mart</h3>
+<p><b>Full-Stack E-Commerce Platform</b></p>
 
----
+<p>
+<code>MERN</code> <code>Redux</code> <code>Stripe</code> <code>JWT</code>
+</p>
 
-### 🛍️ Myntra Digital | Dynamic Shopping UI
-**Tech Stack:** `React.js` • `Redux Toolkit` • `Node.js`
+<p>
+Secure auth • Cart system • Online payments • Scalable APIs
+</p>
 
-*   **Impact:** Developed a high-fidelity clone focusing on complex UI interactions and real-world data flow.
-*   **Engineering:** Built using modular, reusable components and optimized Redux slices to handle dynamic filtering and sorting.
-*   [**🔗 Live Demo**](https://myntra-muaaz.vercel.app/)
+<a href="https://e-shop-frontend1.vercel.app/">🔗 Live</a> •
+<a href="https://github.com/MuhammadMuaaz007">📂 Code</a>
 
----
+</div>
 
-### 🎓 Edusity Portal | Educational Interface
-**Tech Stack:** `React` • `Vite` • `CSS3` • `AOS`
+<!-- Project 2 -->
+<div style="border:1px solid #30363d; border-radius:12px; padding:16px; margin:10px; width:80%;">
 
-*   **Impact:** Created a high-performance landing page for educational institutions with fluid animations and responsive layouts.
-*   **Engineering:** Leveraged Vite for lightning-fast build times and implemented mobile-first design principles.
-*   [**🔗 Live Demo**](https://edusity-muaaz.vercel.app/)
+<h3>🛍️ Myntra Digital</h3>
+<p><b>Dynamic Shopping UI</b></p>
 
----
+<p>
+<code>React</code> <code>Redux Toolkit</code> <code>Node.js</code>
+</p>
 
-### 🧩 DSA Lab | Algorithm & Logic Hub
-**Tech Stack:** `C++` • `STL` • `Algorithms`
+<p>
+Reusable components • Filtering • Smooth UI experience
+</p>
 
-*   **Impact:** Documented solutions for 100+ algorithmic challenges, maintaining a focus on time and space complexity.
-*   **Engineering:** Mastery of $O(n \log n)$ sorting, Graph traversals, and advanced Data Structures using C++ STL.
-*   [**📂 Repository**](https://github.com/MuhammadMuaaz007/leetcode-solutions)
+<a href="https://myntra-muaaz.vercel.app/">🔗 Live</a>
 
----
+</div>
+
+<!-- Project 3 -->
+<div style="border:1px solid #30363d; border-radius:12px; padding:16px; margin:10px; width:80%;">
+
+<h3>🎓 Edusity Portal</h3>
+<p><b>Educational Landing Page</b></p>
+
+<p>
+<code>React</code> <code>Vite</code> <code>CSS3</code> <code>AOS</code>
+</p>
+
+<p>
+Fast performance • Animations • Responsive design
+</p>
+
+<a href="https://edusity-muaaz.vercel.app/">🔗 Live</a>
+
+</div>
+
+<!-- Project 4 -->
+<div style="border:1px solid #30363d; border-radius:12px; padding:16px; margin:10px; width:80%;">
+
+<h3>🧩 DSA Lab</h3>
+<p><b>Algorithms Repository</b></p>
+
+<p>
+<code>C++</code> <code>STL</code> <code>DSA</code>
+</p>
+
+<p>
+100+ problems • Optimized solutions • Clean code
+</p>
+
+<a href="https://github.com/MuhammadMuaaz007/leetcode-solutions">📂 Repository</a>
+
+</div>
+
+</div>
 
 ---
 
@@ -111,7 +150,7 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&theme=github-compact&area=true&hide_border=true&color=38bdf8" width="100%" />
 </p>
 
-## 📊 Technical Ecosystem
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=tokyonight&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&count_private=true" width="48%" />
