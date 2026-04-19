@@ -64,13 +64,14 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 
 ---
 
-### 🚀 Featured Engineering & Case Studies
+### 🚀 Featured Engineering Projects & Case Studies
 
-| Project | Tech Stack | Impact & Achievement | Link |
+| Project | Tech Stack | Impact & Highlights | Link |
 | :--- | :--- | :--- | :---: |
-| **🛍️ Myntra Digital** | `React` `Redux` | Implemented complex state management & high-fidelity UI | [🚀 View](https://myntra-muaaz.vercel.app/) |
-| **🎓 Edusity Portal** | `React` `Vite` `CSS3` | Developed a fully responsive, SEO-optimized landing page | [🚀 View](https://edusity-muaaz.vercel.app/) |
-| **🧩 DSA Lab** | `C++` `STL` `Algorithms` | 100+ Optimized solutions for competitive programming | [📂 Repo](https://github.com/MuhammadMuaaz007/leetcode-solutions) |
+| **🛒 Muaaz Mart (Full-Stack E-Commerce)** | `MERN` `Redux` `Stripe` | Built a complete eCommerce system with authentication, cart, and order flow. Designed scalable REST APIs and managed global state with Redux. | [🚀 Live](https://e-shop-frontend1.vercel.app/) |
+| **🛍️ Myntra Digital** | `React` `Redux` `Node.js` | Developed a dynamic UI with advanced state management and reusable components for a real-world shopping experience. | [🚀 Live](https://myntra-muaaz.vercel.app/) |
+| **🎓 Edusity Portal** | `React` `Vite` `CSS3` | Created a responsive and performance-optimized landing page with clean UI and modern design practices. | [🚀 Live](https://edusity-muaaz.vercel.app/) |
+| **🧩 DSA Lab** | `C++` `STL` `Algorithms` | Solved 100+ problems focusing on optimized approaches, covering arrays, trees, graphs, and STL mastery. | [📂 Repo](https://github.com/MuhammadMuaaz007/leetcode-solutions) |
 
 ---
 
