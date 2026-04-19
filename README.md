@@ -51,10 +51,9 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 
 | Project | Tech Stack | Impact & Achievement | Link |
 | :--- | :--- | :--- | :---: |
-| **🛍️ Myntra Digital** | `React` `Redux` `Express` | Implemented complex state management & high-fidelity UI | [🚀 View](https://myntra-muaaz.vercel.app/) |
+| **🛍️ Myntra Digital** | `React` `Redux` | Implemented complex state management & high-fidelity UI | [🚀 View](https://myntra-muaaz.vercel.app/) |
 | **🎓 Edusity Portal** | `React` `Vite` `CSS3` | Developed a fully responsive, SEO-optimized landing page | [🚀 View](https://edusity-muaaz.vercel.app/) |
 | **🧩 DSA Lab** | `C++` `STL` `Algorithms` | 100+ Optimized solutions for competitive programming | [📂 Repo](https://github.com/MuhammadMuaaz007/leetcode-solutions) |
-| **⚡ Hex-Logic Sim** | `Proteus` `Digital Logic` | Engineered binary representation of hexadecimal values | [📂 Code](https://github.com/MuhammadMuaaz007) |
 
 ---
 
