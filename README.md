@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Full-Stack Web Developer · MERN Stack · Problem Solver</strong><br/>
-  Building clean, scalable web apps & mastering Data Structures and Algorithms
+  Building clean, scalable web apps while mastering Data Structures and Algorithms
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 I’m **Muhammad Muaaz**, a passionate **Full-Stack Web Developer** focused on building modern, performant, and user-centric web applications.
 
-I enjoy:
+What I enjoy:
 - Designing clean UI/UX with **React**
 - Building scalable backends using **Node.js & MongoDB**
 - Solving **DSA problems in C++** for interview readiness
 - Continuously learning and improving through real projects
 
-I believe in writing **clean, maintainable code** and learning by building.
+I believe in writing **clean, maintainable code** and improving through consistency.
 
 ---
 
@@ -69,10 +69,18 @@ I believe in writing **clean, maintainable code** and learning by building.
 ## 📊 GitHub Stats
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical" height="150"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" alt="Visitor badge"/>
 </p>
 
 ---
