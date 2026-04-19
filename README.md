@@ -1,65 +1,73 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Muhammad%20Muaaz&fontSize=40&fontColor=0ea5e9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=200&section=header&text=Muaaz&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer • MERN Stack • C++ Problem Solver</b>
+  🚀 Full-Stack Developer | MERN Stack | C++
+</p>
+
+---
+
+## ⚡ About Me
+
+- 💻 Building scalable web apps using MERN  
+- 🧠 Solving DSA problems in C++  
+- ⚙️ Learning System Design  
+- 🎯 Focused on real-world projects  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,cpp,js,tailwind,git" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🛒 Myntra Clone
+E-commerce platform with full backend integration  
+👉 https://myntra-muaaz.vercel.app/
+
+---
+
+### 🎓 Edusity
+Responsive education UI  
+👉 https://edusity-muaaz.vercel.app/
+
+---
+
+### 🧠 DSA Solutions
+C++ problem solving  
+👉 GitHub Repo
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007" width="70%" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-muaaz.vercel.app/">Portfolio</a> |
-  <a href="https://leetcode.com/u/Muaaz_/">LeetCode</a> |
-  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/">LinkedIn</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true" width="45%" />
 </p>
 
 ---
 
-## About Me
-
-Full-Stack Developer focused on building scalable MERN applications with clean architecture and efficient backend systems.
-
-- Building freelance projects (Fiverr)
-- Strong in DSA (C++)
-- Exploring System Design & OS
-
----
-
-## Tech Stack
-
-**Frontend:** React, Redux, Tailwind, Bootstrap  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
-**Languages:** C++, JavaScript  
-
----
-
-## Featured Projects
-
-**Myntra Clone**  
-Full-stack eCommerce platform (React, Redux, Node.js)  
-🔗 https://myntra-muaaz.vercel.app/
-
-**Edusity**  
-Modern education UI (React, Vite)  
-🔗 https://edusity-muaaz.vercel.app/
-
-**DSA Solutions**  
-C++ problem solving repo  
-🔗 https://github.com/MuhammadMuaaz007/leetcode-solutions  
-
----
-
-## GitHub Stats
+## 🌐 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&hide_border=true" width="40%" />
+  <a href="mailto:mrmuaaz31@gmail.com">Email</a> •
+  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://leetcode.com">LeetCode</a>
 </p>
 
 ---
 
-## Contact
-
-- Email: mrmuaaz31@gmail.com
-- LinkedIn: muhammad-muaaz
+<p align="center">
+  <i>Code. Build. Improve. Repeat.</i>
+</p>
