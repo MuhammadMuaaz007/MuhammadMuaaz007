@@ -64,14 +64,45 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 
 ---
 
-### 🚀 Featured Engineering Projects & Case Studies
+# 🚀 Featured Engineering Projects
 
-| Project | Tech Stack | Impact & Highlights | Link |
-| :--- | :--- | :--- | :---: |
-| **🛒 Muaaz Mart (Full-Stack E-Commerce)** | `MERN` `Redux` `Stripe` | Built a complete eCommerce system with authentication, cart, and order flow. Designed scalable REST APIs and managed global state with Redux. | [🚀 Live](https://e-shop-frontend1.vercel.app/) |
-| **🛍️ Myntra Digital** | `React` `Redux` `Node.js` | Developed a dynamic UI with advanced state management and reusable components for a real-world shopping experience. | [🚀 Live](https://myntra-muaaz.vercel.app/) |
-| **🎓 Edusity Portal** | `React` `Vite` `CSS3` | Created a responsive and performance-optimized landing page with clean UI and modern design practices. | [🚀 Live](https://edusity-muaaz.vercel.app/) |
-| **🧩 DSA Lab** | `C++` `STL` `Algorithms` | Solved 100+ problems focusing on optimized approaches, covering arrays, trees, graphs, and STL mastery. | [📂 Repo](https://github.com/MuhammadMuaaz007/leetcode-solutions) |
+---
+
+### 🛒 Muaaz Mart | Full-Stack E-Commerce
+**Tech Stack:** `MERN Stack` • `Redux` • `Stripe` • `JWT`
+
+*   **Impact:** Engineered a comprehensive B2C system with secure authentication, persistent cart logic, and integrated payment gateways.
+*   **Engineering:** Focused on scalable RESTful API design and global state management for a seamless user journey.
+*   [**🔗 Live Demo**](https://e-shop-frontend1.vercel.app/) | [**📂 Source Code**](https://github.com/MuhammadMuaaz007)
+
+---
+
+### 🛍️ Myntra Digital | Dynamic Shopping UI
+**Tech Stack:** `React.js` • `Redux Toolkit` • `Node.js`
+
+*   **Impact:** Developed a high-fidelity clone focusing on complex UI interactions and real-world data flow.
+*   **Engineering:** Built using modular, reusable components and optimized Redux slices to handle dynamic filtering and sorting.
+*   [**🔗 Live Demo**](https://myntra-muaaz.vercel.app/)
+
+---
+
+### 🎓 Edusity Portal | Educational Interface
+**Tech Stack:** `React` • `Vite` • `CSS3` • `AOS`
+
+*   **Impact:** Created a high-performance landing page for educational institutions with fluid animations and responsive layouts.
+*   **Engineering:** Leveraged Vite for lightning-fast build times and implemented mobile-first design principles.
+*   [**🔗 Live Demo**](https://edusity-muaaz.vercel.app/)
+
+---
+
+### 🧩 DSA Lab | Algorithm & Logic Hub
+**Tech Stack:** `C++` • `STL` • `Algorithms`
+
+*   **Impact:** Documented solutions for 100+ algorithmic challenges, maintaining a focus on time and space complexity.
+*   **Engineering:** Mastery of $O(n \log n)$ sorting, Graph traversals, and advanced Data Structures using C++ STL.
+*   [**📂 Repository**](https://github.com/MuhammadMuaaz007/leetcode-solutions)
+
+---
 
 ---
 
@@ -80,9 +111,11 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&theme=github-compact&area=true&hide_border=true&color=38bdf8" width="100%" />
 </p>
 
+## 📊 Technical Ecosystem
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=transparent&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=transparent&title_color=38bdf8&text_color=ffffff&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=tokyonight&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=ffffff&hide_border=true&langs_count=6" width="45%" />
 </p>
 
 
