@@ -1,27 +1,27 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:6366f1&text=Muhammad%20Muaaz&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20•%20MERN%20Stack%20Developer%20•%20C%2B%2B%20Problem%20Solver&descSize=20&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e293b&text=Muhammad%20Muaaz&fontSize=48&fontColor=38bdf8&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;Solving+DSA+with+C%2B%2B;Exploring+System+Design+%26+Backend;Freelance+Developer" />
+  <b>Full-Stack Software Engineer • MERN Stack Developer • C++ Problem Solver</b>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-muaaz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://portfolio-muaaz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=google-chrome&logoColor=38bdf8"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8"/>
   </a>
-  <a href="https://leetcode.com/u/Muaaz_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0ea5e9?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/Muaaz_/">
+    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=flat-square&logo=leetcode&logoColor=38bdf8"/>
   </a>
 </p>
 
-<!-- subtle divider -->
+<!-- subtle animated divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,100:6366f1&section=footer" />
 </p>
 <!-- HEADER END -->
 
