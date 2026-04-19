@@ -1,78 +1,79 @@
-<!-- HERO SECTION -->
+<!-- HEADER SECTION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Muhammad%20Muaaz&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <strong>Full-Stack Web Developer · MERN Stack · Problem Solver</strong><br/>
-  Building clean, scalable web apps & mastering Data Structures and Algorithms
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver+in+C%2B%2B;Freelance+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-muaaz.vercel.app/">Portfolio</a> •
-  <a href="https://leetcode.com/u/Muaaz_/">LeetCode</a> •
-  <a href="https://github.com/MuhammadMuaaz007">GitHub</a> •
-  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/">LinkedIn</a>
+  <a href="https://portfolio-muaaz.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://leetcode.com/u/Muaaz_/">💡 LeetCode</a> •
+  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/">🔗 LinkedIn</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m **Muhammad Muaaz**, a passionate **Full-Stack Web Developer** focused on building modern, performant, and user-centric web applications.
+I’m **Muhammad Muaaz**, a **Full-Stack Software Engineer** and student at the **University of Education**. I specialize in the **MERN Stack** and have a deep passion for architectural design and algorithmic efficiency.
 
-I enjoy:
-- Designing clean UI/UX with **React**
-- Building scalable backends using **Node.js & MongoDB**
-- Solving **DSA problems in C++** for interview readiness
-- Continuously learning and improving through real projects
-
-I believe in writing **clean, maintainable code** and learning by building.
+- 🚀 Currently focused on building scalable freelance projects for **Fiverr**.
+- 🛠️ Mastering **Data Structures & Algorithms** using C++.
+- 🎓 Constant learner: Currently diving deeper into **Operating System Synchronization** and **Group Theory**.
+- 💬 Ask me about **React, Node.js, or Ubuntu Linux** configurations.
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+### 💻 Frontend & Styling
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ## 🚀 Featured Work
 
-| Project | Description | Live / Repo |
-|------|-----------|------|
-| **Portfolio Website** | Personal portfolio showcasing skills & projects | [Live](https://portfolio-muaaz.vercel.app/) |
-| **Myntra Clone** | React-based e-commerce UI inspired by Myntra | [Live](https://myntra-muaaz.vercel.app/) |
-| **Edusity** | Modern education landing page built with React | [Live](https://edusity-muaaz.vercel.app/) |
-| **LeetCode Solutions** | C++ solutions for DSA & interview prep | [Repo](https://github.com/MuhammadMuaaz007/leetcode-solutions) |
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| [**Myntra Clone**](https://myntra-muaaz.vercel.app/) | React, Redux, Node.js | Live |
+| [**Edusity**](https://edusity-muaaz.vercel.app/) | React, CSS3, Vite | Live |
+| [**DSA Solutions**](https://github.com/MuhammadMuaaz007/leetcode-solutions) | C++, STL, Algorithms | Ongoing |
+| [**Hex-Binary Converter**](https://github.com/MuhammadMuaaz007) | Proteus Simulation | Completed |
 
 ---
 
-## 🧩 Problem Solving & DSA
-
-- Solving **LeetCode problems in C++**  
-- Topics: Arrays, Strings, Trees, Graphs, DP, Binary Search, Greedy  
-- Improving **problem-solving skills & interview readiness**  
-
-🔗 **LeetCode Profile:** [Muaaz_](https://leetcode.com/u/Muaaz_/)
-
----
-
-## 📊 GitHub Stats
-
-
+## 📊 Coding Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical" height="150"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Muaaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical&hide_border=true" alt="GitHub Streak" width="94%" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadMuaaz007&theme=radical" width="100%" />
 </p>
 
 ---
@@ -80,19 +81,15 @@ I believe in writing **clean, maintainable code** and learning by building.
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mrmuaaz31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/MuhammadMuaaz007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <a href="mailto:mrmuaaz31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Muaaz_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" alt="visitor badge"/>
+</p>
 
 <p align="center">
-  <i>Focused on growth, consistency, and building impactful software. 🚀</i>
+  <i>"Clean code is not written by chance; it’s a result of discipline and continuous growth." 🚀</i>
 </p>
