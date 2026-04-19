@@ -1,12 +1,26 @@
+<!-- HEADER START -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38bdf8&text=Muhammad%20Muaaz&fontSize=70&desc=Full-Stack%20Engineer%20|%20MERN%20Expert%20|%20DSA%20Specialist&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38bdf8&text=Muhammad%20Muaaz&fontSize=70&desc=Full-Stack%20Software%20Engineer%20%E2%97%8F%20MERN%20Expert%20%E2%97%8F%20DSA%20Specialist&descSize=20&descAlignY=75&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-muaaz.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/">🔗 LinkedIn</a> •
-  <a href="https://leetcode.com/u/Muaaz_/">💡 LeetCode</a>
+  <a href="https://portfolio-muaaz.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Muaaz_/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=38bdf8" alt="LeetCode" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Building+scalable+MERN+applications;Solving+complex+problems+in+C%2B%2B;Mastering+Cloud+%26+Linux+Environments" alt="Typing SVG" />
+</p>
+<!-- HEADER END -->
 
 ---
 
@@ -67,9 +81,6 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=transparent&title_color=38bdf8&text_color=ffffff&hide_border=true" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=MuhammadMuaaz007&grid_colors=0e1117,0ea5e9,38bdf8,7dd3fc,bae6fd" width="100%" />
-</p>
 
 ---
 
