@@ -1,10 +1,10 @@
-<!-- HEADER SECTION -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Muhammad%20Muaaz&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Muhammad%20Muaaz&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver+in+C%2B%2B;Freelance+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Engineer;C%2B%2B+Problem+Solver;Building+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
@@ -15,81 +15,105 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I’m **Muhammad Muaaz**, a **Full-Stack Software Engineer** and student at the **University of Education**. I specialize in the **MERN Stack** and have a deep passion for architectural design and algorithmic efficiency.
+I’m **Muhammad Muaaz**, a **Full-Stack Developer** and Software Engineering student at the **University of Education, Lahore**.
 
-- 🚀 Currently focused on building scalable freelance projects for **Fiverr**.
-- 🛠️ Mastering **Data Structures & Algorithms** using C++.
-- 🎓 Constant learner: Currently diving deeper into **Operating System Synchronization** and **Group Theory**.
-- 💬 Ask me about **React, Node.js, or Ubuntu Linux** configurations.
+I specialize in building **scalable, high-performance web applications** using the **MERN Stack**, with a strong focus on clean architecture and efficient problem solving.
+
+- 🚀 Building real-world freelance projects on **Fiverr**
+- 🧠 Strengthening **Data Structures & Algorithms (C++)**
+- ⚙️ Exploring **System Design & Operating Systems**
+- 💡 Passionate about writing **clean, maintainable code**
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Frontend & Styling
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css" />
+</p>
 
 ### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-### 🛠️ Tools & Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+### 🧠 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ubuntu,vite,git,github" />
+</p>
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-| Project | Tech Stack | Status |
-| :--- | :--- | :--- |
-| [**Myntra Clone**](https://myntra-muaaz.vercel.app/) | React, Redux, Node.js | Live |
-| [**Edusity**](https://edusity-muaaz.vercel.app/) | React, CSS3, Vite | Live |
-| [**DSA Solutions**](https://github.com/MuhammadMuaaz007/leetcode-solutions) | C++, STL, Algorithms | Ongoing |
-| [**Hex-Binary Converter**](https://github.com/MuhammadMuaaz007) | Proteus Simulation | Completed |
+### 🛍️ Myntra Clone
+- Full-stack eCommerce platform  
+- **Tech:** React, Redux, Node.js  
+- 🔗 https://myntra-muaaz.vercel.app/
 
 ---
 
-## 📊 Coding Activity & Stats
+### 🎓 Edusity
+- Modern educational UI platform  
+- **Tech:** React, Vite, CSS3  
+- 🔗 https://edusity-muaaz.vercel.app/
+
+---
+
+### 🧩 DSA Solutions
+- LeetCode problem-solving repository  
+- **Tech:** C++, STL, Algorithms  
+- 🔗 https://github.com/MuhammadMuaaz007/leetcode-solutions
+
+---
+
+### 🔢 Hex-Binary Converter
+- Digital logic simulation project  
+- **Tech:** Proteus  
+- 🔗 https://github.com/MuhammadMuaaz007
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Muaaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical&hide_border=true" alt="GitHub Streak" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical&hide_border=true" width="90%" />
 </p>
 
-### 📈 Contribution Graph
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadMuaaz007&theme=radical" width="100%" />
 </p>
 
 ---
 
-## 📬 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:mrmuaaz31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Muaaz_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="mailto:mrmuaaz31@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Muaaz_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" alt="visitor badge"/>
-</p>
+---
 
 <p align="center">
-  <i>"Clean code is not written by chance; it’s a result of discipline and continuous growth." 🚀</i>
+  <i>"Clean code is not accidental — it's engineered through discipline and consistency."</i>
 </p>
