@@ -70,9 +70,9 @@ I believe in writing **clean, maintainable code** and improving through consiste
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats overview"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMuaaz007&theme=radical" height="150" alt="GitHub commit streak statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=radical&hide_border=true" height="150" alt="Most used programming languages chart"/>
 </p>
 
 <p align="center">
