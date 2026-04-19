@@ -4,21 +4,25 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Apps;Solving+Complex+DSA+in+C%2B%2B;Mastering+Ubuntu+%26+Virtualization;High-Rated+Freelancer+on+Fiverr" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://portfolio-muaaz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-121212?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Muaaz_/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=38bdf8" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LEETCODE-121212?style=for-the-badge&logo=leetcode&logoColor=38bdf8" alt="LeetCode" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Building+scalable+MERN+applications;Solving+complex+problems+in+C%2B%2B;Mastering+Cloud+%26+Linux+Environments" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
 </p>
 <!-- HEADER END -->
 
