@@ -76,11 +76,11 @@ I believe in writing **clean, maintainable code** and improving through consiste
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph for MuhammadMuaaz007"/>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" alt="Visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadMuaaz007.MuhammadMuaaz007" alt="Profile visitor count badge"/>
 </p>
 
 ---
