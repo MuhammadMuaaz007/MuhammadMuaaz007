@@ -1,28 +1,27 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38bdf8&text=Muhammad%20Muaaz&fontSize=70&desc=Full-Stack%20Software%20Engineer%20%E2%97%8F%20MERN%20Expert%20%E2%97%8F%20DSA%20Specialist&descSize=20&descAlignY=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:6366f1&text=Muhammad%20Muaaz&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20•%20MERN%20Stack%20Developer%20•%20C%2B%2B%20Problem%20Solver&descSize=20&descAlignY=70"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Apps;Solving+Complex+DSA+in+C%2B%2B;Mastering+Ubuntu+%26+Virtualization;High-Rated+Freelancer+on+Fiverr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;Solving+DSA+with+C%2B%2B;Exploring+System+Design+%26+Backend;Freelance+Developer" />
 </p>
 
 <p align="center">
   <a href="https://portfolio-muaaz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/muhammad-muaaz-120237297/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-121212?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://leetcode.com/u/Muaaz_/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-121212?style=for-the-badge&logo=leetcode&logoColor=38bdf8" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-0ea5e9?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
+<!-- subtle divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=2&section=footer"/>
 </p>
 <!-- HEADER END -->
 
