@@ -76,10 +76,16 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 </p>
 
 
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=tokyonight&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=ffffff&hide_border=true&langs_count=6" width="45%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=tokyonight&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&count_private=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=ffffff&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadMuaaz007&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=ffffff" />
 </p>
 
 
