@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Software Engineer • MERN Stack Developer • C++ Problem Solver</b>
+  <b>Full-Stack Software Engineer </b>
 </p>
 
 <p align="center">
