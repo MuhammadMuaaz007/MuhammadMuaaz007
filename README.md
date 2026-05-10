@@ -70,24 +70,24 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 
 ---
 
-### 📈 Activity Pulse
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&theme=github-compact&area=true&hide_border=true&color=38bdf8" width="100%" />
-</p>
+---
 
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">⚡ Contribution Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadMuaaz007&show_icons=true&theme=tokyonight&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=true&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuaaz007&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=ffffff&hide_border=true&langs_count=6" />
+  <a href="https://github.com/MuhammadMuaaz007">
+    <img width="95%" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&bg_color=0f172a&color=38bdf8&line=38bdf8&point=818cf8&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph&radius=16" 
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadMuaaz007&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=ffffff" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38bdf8,100:6366f1&section=footer" 
+    width="90%"
+  />
 </p>
-
 
 ---
 
