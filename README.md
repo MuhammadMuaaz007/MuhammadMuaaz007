@@ -72,11 +72,12 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 
 ---
 
-<h2 align="center">🌊 Contribution Ocean</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&bg_color=0f172a&color=60a5fa&line=38bdf8&point=ffffff&area=true&hide_border=true&radius=20&custom_title=Oceanic%20GitHub%20Analytics"
+  <img 
+    width="78%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&bg_color=0f172a&color=38bdf8&line=38bdf8&point=818cf8&area=true&hide_border=true&radius=15"
   />
 </p>
 
