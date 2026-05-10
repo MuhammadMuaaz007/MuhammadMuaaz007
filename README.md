@@ -72,8 +72,12 @@ I am a results-driven **Full-Stack Software Engineer** and student at the **Univ
 
 ---
 
+<h2 align="center">📈 Contribution Analytics</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;MERN+Stack+Developer;C%2B%2B+Problem+Solver;Open+Source+Contributor" />
+  <img width="92%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuaaz007&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Performance"
+  />
 </p>
 
 ---
