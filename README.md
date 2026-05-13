@@ -22,7 +22,6 @@
 ## 🧠 About Me
 
 > *"Building systems that scale, interfaces that delight, and solutions that matter."*
-
 I'm a **Full-Stack Software Engineer** and CS student at the **University of Education**, passionate about bridging the gap between powerful backend systems and seamless user experiences. Currently deep in the **MERN Stack**, competitive programming, and OS-level research.
 
 <table width="100%">
