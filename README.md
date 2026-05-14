@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e3a5f,100:0f172a&text=Muhammad%20Muaaz&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 </div>
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f172a?style=for-the-badge&logoColor=38bdf8)](https://portfolio-muaaz.vercel.app/)
